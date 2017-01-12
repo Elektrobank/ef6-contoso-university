@@ -55,3 +55,7 @@ C:\Users\Electrobank\GitRepos\ef6-contoso\ContosoUniversity\ContosoUniversity\bi
 C:\Users\Electrobank\GitRepos\ef6-contoso\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
 C:\Users\Electrobank\GitRepos\ef6-contoso\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
 C:\Users\Electrobank\GitRepos\ef6-contoso\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\Electrobank\GitRepos\ef6-contoso\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Users\Electrobank\GitRepos\ef6-contoso\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\Electrobank\GitRepos\ef6-contoso\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Users\Electrobank\GitRepos\ef6-contoso\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
