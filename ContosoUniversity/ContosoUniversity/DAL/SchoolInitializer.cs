@@ -7,7 +7,7 @@ using ContosoUniversity.Models;
 
 namespace ContosoUniversity.DAL
 {
-    public class SchoolInitializer : System.Data.Entity.DropCreateDatabaseIfModelChanges<SchoolContext>
+    public class SchoolInitializer : DropCreateDatabaseIfModelChanges<SchoolContext>
     {
         protected override void Seed(SchoolContext context)
         {
@@ -27,7 +27,7 @@ namespace ContosoUniversity.DAL
 
             var courses = new List<Course>
             {
-                new Course{CourseID=1050,Title="Chemistry",Credits=3,},
+                new Course{CourseID=1050,Title="Chemistry",Credits=3},
                 new Course{CourseID=4022,Title="Microeconomics",Credits=3,},
                 new Course{CourseID=4041,Title="Macroeconomics",Credits=3,},
                 new Course{CourseID=1045,Title="Calculus",Credits=4,},
